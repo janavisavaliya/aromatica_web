@@ -1,0 +1,263 @@
+@font-face {
+    font-family: 'Syne';
+    src: url('../fonts/Syne-ExtraBold.woff2') format('woff2'),
+        url('../fonts/Syne-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Syne';
+    src: url('../fonts/Syne-SemiBold.woff2') format('woff2'),
+        url('../fonts/Syne-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Syne';
+    src: url('../fonts/Syne-Medium.woff2') format('woff2'),
+        url('../fonts/Syne-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Syne';
+    src: url('../fonts/Syne-Regular.woff2') format('woff2'),
+        url('../fonts/Syne-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Syne';
+    src: url('../fonts/Syne-Bold.woff2') format('woff2'),
+        url('../fonts/Syne-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Syne';
+    src: url('../fonts/Syne-Regular.woff2') format('woff2'),
+        url('../fonts/Syne-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('../fonts/DancingScript-Regular.woff2') format('woff2'),
+        url('../fonts/DancingScript-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('../fonts/DancingScript-Medium.woff2') format('woff2'),
+        url('../fonts/DancingScript-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('../fonts/DancingScript-Bold.woff2') format('woff2'),
+        url('../fonts/DancingScript-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('../fonts/DancingScript-Regular.woff2') format('woff2'),
+        url('../fonts/DancingScript-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('../fonts/DancingScript-SemiBold.woff2') format('woff2'),
+        url('../fonts/DancingScript-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Niveau Grotesk';
+    src: url('../fonts/HvDTrial_NiveauGroteskBlack.woff2') format('woff2'),
+        url('../fonts/HvDTrial_NiveauGroteskBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Niveau Grotesk';
+    src: url('../fonts/HvDTrial_NiveauGroteskBlack-Italic.woff2') format('woff2'),
+        url('../fonts/HvDTrial_NiveauGroteskBlack-Italic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Niveau Grotesk';
+    src: url('../fonts/HvDTrial_NiveauGroteskExtraLight-Italic.woff2') format('woff2'),
+        url('../fonts/HvDTrial_NiveauGroteskExtraLight-Italic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Niveau Grotesk';
+    src: url('../fonts/HvDTrial_NiveauGroteskBold-SmallCaps.woff2') format('woff2'),
+        url('../fonts/HvDTrial_NiveauGroteskBold-SmallCaps.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Niveau Grotesk';
+    src: url('../fonts/HvDTrial_NiveauGroteskBlack-SmallCaps.woff2') format('woff2'),
+        url('../fonts/HvDTrial_NiveauGroteskBlack-SmallCaps.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Niveau Grotesk';
+    src: url('../fonts/HvDTrial_NiveauGroteskMedium.woff2') format('woff2'),
+        url('../fonts/HvDTrial_NiveauGroteskMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Niveau Grotesk';
+    src: url('../fonts/HvDTrial_NiveauGroteskBold-Italic.woff2') format('woff2'),
+        url('../fonts/HvDTrial_NiveauGroteskBold-Italic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Niveau Grotesk';
+    src: url('../fonts/HvDTrial_NiveauGroteskLight-Italic.woff2') format('woff2'),
+        url('../fonts/HvDTrial_NiveauGroteskLight-Italic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Niveau Grotesk';
+    src: url('../fonts/HvDTrial_NiveauGroteskExtraLight.woff2') format('woff2'),
+        url('../fonts/HvDTrial_NiveauGroteskExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Niveau Grotesk';
+    src: url('../fonts/HvDTrial_NiveauGroteskMedium-Italic.woff2') format('woff2'),
+        url('../fonts/HvDTrial_NiveauGroteskMedium-Italic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Niveau Grotesk';
+    src: url('../fonts/HvDTrial_NiveauGroteskLight.woff2') format('woff2'),
+        url('../fonts/HvDTrial_NiveauGroteskLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Niveau Grotesk';
+    src: url('../fonts/HvDTrial_NiveauGroteskBold.woff2') format('woff2'),
+        url('../fonts/HvDTrial_NiveauGroteskBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Niveau Grotesk';
+    src: url('../fonts/HvDTrial_NiveauGroteskLight-SmallCaps.woff2') format('woff2'),
+        url('../fonts/HvDTrial_NiveauGroteskLight-SmallCaps.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Niveau Grotesk';
+    src: url('../fonts/HvDTrial_NiveauGroteskExtraLight-SmallCaps.woff2') format('woff2'),
+        url('../fonts/HvDTrial_NiveauGroteskExtraLight-SmallCaps.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Niveau Grotesk';
+    src: url('../fonts/HvDTrial_NiveauGroteskRegular-Italic.woff2') format('woff2'),
+        url('../fonts/HvDTrial_NiveauGroteskRegular-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Niveau Grotesk';
+    src: url('../fonts/HvDTrial_NiveauGroteskRegular-SmallCaps.woff2') format('woff2'),
+        url('../fonts/HvDTrial_NiveauGroteskRegular-SmallCaps.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Niveau Grotesk';
+    src: url('../fonts/HvDTrial_NiveauGroteskRegular.woff2') format('woff2'),
+        url('../fonts/HvDTrial_NiveauGroteskRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HvDTrial Niveau Grotesk';
+    src: url('../fonts/HvDTrial_NiveauGroteskMedium-SmallCaps.woff2') format('woff2'),
+        url('../fonts/HvDTrial_NiveauGroteskMedium-SmallCaps.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
